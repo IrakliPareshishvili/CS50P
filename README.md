@@ -13,9 +13,6 @@ This repository contains projects, assignments, and code related to CS50 course.
 
 This repository serves as a collection of projects and assignments completed during the duration of the CS50 course at Harvar.
 
-
-## Usage
-
 ## Usage
 
 Enjoy this repository for educational puproses. However, it's highly encouraged to grasp the underlying concepts and adapt the solutions independently to solidify your understanding. 
